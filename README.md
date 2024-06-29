@@ -12,7 +12,7 @@ Building an API testing tool that can be run in any browser, allowing a user to 
 
 ### Links and Resources
 
--
+- [Code Sandbox](https://codesandbox.io/p/github/Jchips/resty/main?workspaceId=3ed8d5bc-bf52-4024-b719-0a6e3b515bed)
 
 ### Setup
 
@@ -22,3 +22,4 @@ Building an API testing tool that can be run in any browser, allowing a user to 
 
 #### UML
 
+![Lab 26 UML](/src/assets/resty.jpg)
